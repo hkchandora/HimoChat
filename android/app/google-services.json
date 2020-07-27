@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68418020110",
+    "firebase_url": "https://himo-chat-app.firebaseio.com",
+    "project_id": "himo-chat-app",
+    "storage_bucket": "himo-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68418020110:android:4a5a7a1711adb90c652d5f",
+        "android_client_info": {
+          "package_name": "com.himanshu.himochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68418020110-6l0efl93bp56fu8kpob0nkbc4aitjf9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.himochat",
+            "certificate_hash": "4c70e318844c8b203a569e6037ae444bef380d6d"
+          }
+        },
+        {
+          "client_id": "68418020110-vlhqlh13ajd6vhle784q53rtc0g2gap8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9m_pYDyxlain-HCZokDSqsZzeIAqMQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68418020110-vlhqlh13ajd6vhle784q53rtc0g2gap8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
